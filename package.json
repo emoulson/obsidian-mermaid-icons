@@ -7,7 +7,8 @@
     "@fortawesome/fontawesome-free": "^7.0.0",
     "@iconify-json/clarity": "^1.2.4",
     "@iconify-json/logos": "^1.2.9",
-    "@iconify-json/lucide": "^1.2.72"
+    "@iconify-json/lucide": "^1.2.72",
+    "@iconify-json/devicon": "^1.2.62"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.47.0",
